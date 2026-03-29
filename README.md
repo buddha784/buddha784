@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Buddha S
+🎓 First-year B.Tech student (AI/ML)
+🏫 VIT Bhopal University
+📅 Expected Graduation: 2029
 
-<!--
-**buddha784/buddha784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+I am a beginner in programming, currently building my skills step by step. I have a strong interest in technology and aim to grow in the field of software development and Artificial Intelligence.
 
-Here are some ideas to get you started:
+📚 Currently Learning
+💻 Programming (C, Python, Java)
+🌐 Web Development (HTML, CSS)
+🛠 Git and GitHub
+🎯 Goals
+Improve my coding and problem-solving skills
+Build small real-world projects
+Learn new technologies in AI/ML
+Secure internships in the tech field
+📂 Projects
+🔹 Coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact Me
+📧 Email: climberbuddha@gmail
+🔗 LinkedIn: https://www.linkedin.com/in/buddha-s-b2b726219/
+⭐ Thank you for visiting my profile!
